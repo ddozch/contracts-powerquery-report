@@ -1,0 +1,17 @@
+# Line endings are fixed here, whatever core.autocrlf says: text is stored with LF and
+# checked out with LF, except the Windows files below
+* text=auto eol=lf
+# Windows tooling (PowerShell 5.1, Excel) expects CRLF in scripts and query files
+*.ps1 text eol=crlf
+*.pq text eol=crlf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+# Binary files are never converted
+*.xlsx binary
+*.xlsm binary
+*.png binary
+*.gif binary
+*.jpg binary
+*.pdf binary

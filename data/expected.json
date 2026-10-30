@@ -1,0 +1,4636 @@
+{
+  "report_year": 2026,
+  "seed": 2026,
+  "records": 1200,
+  "variants": {
+    "a": {
+      "contracts_rows": 1200,
+      "kpi": {
+        "drafted": 909,
+        "signed": 817,
+        "signed_value": 12002336.86,
+        "pending": 191,
+        "issues": 59
+      },
+      "monthly": [
+        {
+          "month": "2026-01",
+          "drafted": 94,
+          "signed": 87,
+          "signed_value": 1560548.43
+        },
+        {
+          "month": "2026-02",
+          "drafted": 85,
+          "signed": 68,
+          "signed_value": 813240.61
+        },
+        {
+          "month": "2026-03",
+          "drafted": 91,
+          "signed": 106,
+          "signed_value": 1494399.18
+        },
+        {
+          "month": "2026-04",
+          "drafted": 86,
+          "signed": 59,
+          "signed_value": 756169.11
+        },
+        {
+          "month": "2026-05",
+          "drafted": 88,
+          "signed": 78,
+          "signed_value": 1054129.13
+        },
+        {
+          "month": "2026-06",
+          "drafted": 103,
+          "signed": 89,
+          "signed_value": 1531305.7
+        },
+        {
+          "month": "2026-07",
+          "drafted": 102,
+          "signed": 89,
+          "signed_value": 1303262.36
+        },
+        {
+          "month": "2026-08",
+          "drafted": 79,
+          "signed": 84,
+          "signed_value": 1231733.73
+        },
+        {
+          "month": "2026-09",
+          "drafted": 87,
+          "signed": 84,
+          "signed_value": 1126276.36
+        },
+        {
+          "month": "2026-10",
+          "drafted": 94,
+          "signed": 73,
+          "signed_value": 1131272.25
+        },
+        {
+          "month": "2026-11",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-12",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        }
+      ],
+      "by_type": {
+        "(no type)": {
+          "drafted": 3,
+          "signed": 3,
+          "signed_value": 56498.69
+        },
+        "<other>": {
+          "drafted": 3,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        "Annex": {
+          "drafted": 135,
+          "signed": 117,
+          "signed_value": 861533.04
+        },
+        "Annex*": {
+          "drafted": 3,
+          "signed": 2,
+          "signed_value": 15345.38
+        },
+        "Consulting": {
+          "drafted": 4,
+          "signed": 3,
+          "signed_value": 66506.06
+        },
+        "Installation contract": {
+          "drafted": 363,
+          "signed": 347,
+          "signed_value": 9318634.3
+        },
+        "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+          "drafted": 3,
+          "signed": 3,
+          "signed_value": 54342.62
+        },
+        "Maintenance contract": {
+          "drafted": 173,
+          "signed": 159,
+          "signed_value": 984903.24
+        },
+        "Network audit": {
+          "drafted": 3,
+          "signed": 3,
+          "signed_value": 14734.0
+        },
+        "Service agreement": {
+          "drafted": 219,
+          "signed": 180,
+          "signed_value": 629839.53
+        }
+      },
+      "by_manager": {
+        "(no manager)": {
+          "drafted": 14,
+          "signed": 11,
+          "signed_value": 130593.16,
+          "pending": 3
+        },
+        "-": {
+          "drafted": 3,
+          "signed": 2,
+          "signed_value": 34689.3,
+          "pending": 1
+        },
+        "<to be assigned>": {
+          "drafted": 2,
+          "signed": 3,
+          "signed_value": 55716.36,
+          "pending": 0
+        },
+        "?": {
+          "drafted": 1,
+          "signed": 3,
+          "signed_value": 26371.99,
+          "pending": 0
+        },
+        "Leo Brooks": {
+          "drafted": 167,
+          "signed": 154,
+          "signed_value": 2171480.92,
+          "pending": 34
+        },
+        "Mia Lane": {
+          "drafted": 167,
+          "signed": 150,
+          "signed_value": 2041939.59,
+          "pending": 38
+        },
+        "Nina Hart": {
+          "drafted": 190,
+          "signed": 171,
+          "signed_value": 2352379.02,
+          "pending": 34
+        },
+        "Owen Price": {
+          "drafted": 206,
+          "signed": 180,
+          "signed_value": 3001659.04,
+          "pending": 43
+        },
+        "Sam Carter": {
+          "drafted": 159,
+          "signed": 143,
+          "signed_value": 2187507.48,
+          "pending": 38
+        }
+      },
+      "issues_by_problem": {
+        "Error value": 18,
+        "Unreadable date": 24,
+        "Unreadable number": 12,
+        "Missing drafted date": 5
+      },
+      "list_rows": 1008,
+      "exact_counts": {
+        "contract_type": {
+          "(no type)": 3,
+          "<other>": 3,
+          "Annex": 178,
+          "Annex*": 3,
+          "Consulting": 5,
+          "Installation contract": 480,
+          "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": 3,
+          "Maintenance contract": 228,
+          "Network audit": 3,
+          "Service agreement": 294
+        },
+        "manager": {
+          "(no manager)": 18,
+          "-": 3,
+          "<to be assigned>": 3,
+          "?": 3,
+          "Leo Brooks": 232,
+          "Mia Lane": 233,
+          "Nina Hart": 237,
+          "Owen Price": 253,
+          "Sam Carter": 218
+        },
+        "status": {
+          "Pending": 231,
+          "Signed": 969
+        },
+        "client": {
+          "Brightway Business Park": 13,
+          "Brightway Campus": 19,
+          "Brightway Hotels": 29,
+          "Brightway Housing": 22,
+          "Brightway Offices": 14,
+          "Brightway Properties": 13,
+          "Clearview Business Park": 21,
+          "Clearview Offices": 18,
+          "Clearview Residences": 18,
+          "Fairway Business Park": 21,
+          "Fairway Campus": 22,
+          "Fairway Properties": 19,
+          "Harborview Campus": 19,
+          "Harborview Properties": 27,
+          "Ironbridge Business Park": 15,
+          "Ironbridge Hotels": 26,
+          "Ironbridge Housing": 27,
+          "Ironbridge Properties": 21,
+          "Ironbridge Residences": 12,
+          "Lakeside Business Park": 28,
+          "Lakeside Campus": 24,
+          "Lakeside Hotels": 22,
+          "Lakeside Housing": 36,
+          "Lakeside Offices": 21,
+          "Lakeside Properties": 24,
+          "Lakeside Residences": 14,
+          "Northgate Business Park": 25,
+          "Northgate Hotels": 21,
+          "Oakridge Hotels": 20,
+          "Oakridge Housing": 17,
+          "Oakridge Offices": 22,
+          "Oakridge Residences": 22,
+          "Pinecrest Business Park": 16,
+          "Pinecrest Campus": 28,
+          "Pinecrest Hotels": 19,
+          "Pinecrest Housing": 15,
+          "Pinecrest Residences": 17,
+          "Redwood Business Park": 18,
+          "Redwood Housing": 18,
+          "Redwood Offices": 22,
+          "Redwood Properties": 20,
+          "Redwood Residences": 20,
+          "Riverside Campus": 24,
+          "Riverside Properties": 21,
+          "Riverside Residences": 22,
+          "Stonehill Business Park": 19,
+          "Stonehill Campus": 20,
+          "Stonehill Hotels": 20,
+          "Stonehill Housing": 22,
+          "Stonehill Residences": 21,
+          "Summit Business Park": 22,
+          "Summit Housing": 18,
+          "Westbrook Business Park": 17,
+          "Westbrook Campus": 27,
+          "Westbrook Hotels": 22,
+          "Westbrook Housing": 22,
+          "Westbrook Properties": 22,
+          "Westbrook Residences": 16
+        }
+      },
+      "contract_no_sha256": "d3a6bab689ba5c5a148b648b6511f05de84e7a8c63338a1daf85d5cb65be3a2b",
+      "scenarios": [
+        {
+          "name": "2025, all",
+          "report_year": 2025,
+          "manager": "All",
+          "type": "All",
+          "kpi": {
+            "drafted": 268,
+            "signed": 152,
+            "signed_value": 1983370.55,
+            "pending": 33
+          },
+          "monthly": [
+            {
+              "month": "2025-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-10",
+              "drafted": 92,
+              "signed": 19,
+              "signed_value": 256607.37
+            },
+            {
+              "month": "2025-11",
+              "drafted": 82,
+              "signed": 51,
+              "signed_value": 706253.65
+            },
+            {
+              "month": "2025-12",
+              "drafted": 94,
+              "signed": 82,
+              "signed_value": 1020509.53
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 38,
+              "signed": 24,
+              "signed_value": 226211.16
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 1810.67
+            },
+            "Installation contract": {
+              "drafted": 110,
+              "signed": 57,
+              "signed_value": 1467009.6
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 51,
+              "signed": 30,
+              "signed_value": 169944.82
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 68,
+              "signed": 40,
+              "signed_value": 118394.3
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 4,
+              "signed": 4,
+              "signed_value": 45805.1,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 59,
+              "signed": 38,
+              "signed_value": 544796.64,
+              "pending": 5
+            },
+            "Mia Lane": {
+              "drafted": 61,
+              "signed": 32,
+              "signed_value": 400253.0,
+              "pending": 10
+            },
+            "Nina Hart": {
+              "drafted": 43,
+              "signed": 24,
+              "signed_value": 288493.38,
+              "pending": 7
+            },
+            "Owen Price": {
+              "drafted": 44,
+              "signed": 25,
+              "signed_value": 342677.69,
+              "pending": 4
+            },
+            "Sam Carter": {
+              "drafted": 55,
+              "signed": 29,
+              "signed_value": 361344.74,
+              "pending": 7
+            }
+          },
+          "list_rows": 273
+        },
+        {
+          "name": "2025, Leo Brooks + Installation contract",
+          "report_year": 2025,
+          "manager": "Leo Brooks",
+          "type": "Installation contract",
+          "kpi": {
+            "drafted": 24,
+            "signed": 14,
+            "signed_value": 415006.92,
+            "pending": 3
+          },
+          "monthly": [
+            {
+              "month": "2025-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-10",
+              "drafted": 8,
+              "signed": 5,
+              "signed_value": 142367.36
+            },
+            {
+              "month": "2025-11",
+              "drafted": 6,
+              "signed": 4,
+              "signed_value": 96906.52
+            },
+            {
+              "month": "2025-12",
+              "drafted": 10,
+              "signed": 5,
+              "signed_value": 175733.04
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 12,
+              "signed": 8,
+              "signed_value": 75425.95
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Installation contract": {
+              "drafted": 24,
+              "signed": 14,
+              "signed_value": 415006.92
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 9,
+              "signed": 6,
+              "signed_value": 28582.66
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 14,
+              "signed": 10,
+              "signed_value": 25781.11
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 31306.15,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 24,
+              "signed": 14,
+              "signed_value": 415006.92,
+              "pending": 3
+            },
+            "Mia Lane": {
+              "drafted": 25,
+              "signed": 10,
+              "signed_value": 288498.77,
+              "pending": 3
+            },
+            "Nina Hart": {
+              "drafted": 17,
+              "signed": 11,
+              "signed_value": 226231.65,
+              "pending": 1
+            },
+            "Owen Price": {
+              "drafted": 22,
+              "signed": 11,
+              "signed_value": 254171.89,
+              "pending": 2
+            },
+            "Sam Carter": {
+              "drafted": 20,
+              "signed": 10,
+              "signed_value": 251794.22,
+              "pending": 2
+            }
+          },
+          "list_rows": 25
+        },
+        {
+          "name": "2026, Mia Lane + Service agreement",
+          "report_year": 2026,
+          "manager": "Mia Lane",
+          "type": "Service agreement",
+          "kpi": {
+            "drafted": 43,
+            "signed": 36,
+            "signed_value": 126573.68,
+            "pending": 10
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 2,
+              "signed": 4,
+              "signed_value": 12803.77
+            },
+            {
+              "month": "2026-02",
+              "drafted": 2,
+              "signed": 1,
+              "signed_value": 6394.27
+            },
+            {
+              "month": "2026-03",
+              "drafted": 8,
+              "signed": 2,
+              "signed_value": 7360.83
+            },
+            {
+              "month": "2026-04",
+              "drafted": 7,
+              "signed": 6,
+              "signed_value": 21722.06
+            },
+            {
+              "month": "2026-05",
+              "drafted": 2,
+              "signed": 8,
+              "signed_value": 28163.73
+            },
+            {
+              "month": "2026-06",
+              "drafted": 5,
+              "signed": 2,
+              "signed_value": 4333.18
+            },
+            {
+              "month": "2026-07",
+              "drafted": 5,
+              "signed": 3,
+              "signed_value": 10838.84
+            },
+            {
+              "month": "2026-08",
+              "drafted": 4,
+              "signed": 5,
+              "signed_value": 21622.64
+            },
+            {
+              "month": "2026-09",
+              "drafted": 1,
+              "signed": 4,
+              "signed_value": 9585.3
+            },
+            {
+              "month": "2026-10",
+              "drafted": 7,
+              "signed": 1,
+              "signed_value": 3749.06
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 27,
+              "signed": 27,
+              "signed_value": 187703.35
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 63525.82
+            },
+            "Installation contract": {
+              "drafted": 58,
+              "signed": 54,
+              "signed_value": 1468886.37
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 34,
+              "signed": 30,
+              "signed_value": 189415.87
+            },
+            "Network audit": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 5834.5
+            },
+            "Service agreement": {
+              "drafted": 43,
+              "signed": 36,
+              "signed_value": 126573.68
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 6,
+              "signed": 5,
+              "signed_value": 8431.4,
+              "pending": 1
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 43,
+              "signed": 35,
+              "signed_value": 107994.96,
+              "pending": 12
+            },
+            "Mia Lane": {
+              "drafted": 43,
+              "signed": 36,
+              "signed_value": 126573.68,
+              "pending": 10
+            },
+            "Nina Hart": {
+              "drafted": 46,
+              "signed": 41,
+              "signed_value": 164233.54,
+              "pending": 11
+            },
+            "Owen Price": {
+              "drafted": 37,
+              "signed": 30,
+              "signed_value": 107944.17,
+              "pending": 11
+            },
+            "Sam Carter": {
+              "drafted": 44,
+              "signed": 33,
+              "signed_value": 114661.78,
+              "pending": 13
+            }
+          },
+          "list_rows": 46
+        },
+        {
+          "name": "2026, (no manager)",
+          "report_year": 2026,
+          "manager": "(no manager)",
+          "type": "All",
+          "kpi": {
+            "drafted": 14,
+            "signed": 11,
+            "signed_value": 130593.16,
+            "pending": 3
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 3,
+              "signed_value": 68464.22
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 3233.35
+            },
+            {
+              "month": "2026-06",
+              "drafted": 2,
+              "signed": 1,
+              "signed_value": 43572.19
+            },
+            {
+              "month": "2026-07",
+              "drafted": 2,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 2,
+              "signed_value": 3909.45
+            },
+            {
+              "month": "2026-09",
+              "drafted": 4,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 1,
+              "signed": 4,
+              "signed_value": 11413.95
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 6215.9
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Installation contract": {
+              "drafted": 4,
+              "signed": 4,
+              "signed_value": 112036.41
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 3,
+              "signed": 1,
+              "signed_value": 3909.45
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 6,
+              "signed": 5,
+              "signed_value": 8431.4
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 14,
+              "signed": 11,
+              "signed_value": 130593.16,
+              "pending": 3
+            },
+            "-": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 34689.3,
+              "pending": 1
+            },
+            "<to be assigned>": {
+              "drafted": 2,
+              "signed": 3,
+              "signed_value": 55716.36,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 3,
+              "signed_value": 26371.99,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 167,
+              "signed": 154,
+              "signed_value": 2171480.92,
+              "pending": 34
+            },
+            "Mia Lane": {
+              "drafted": 167,
+              "signed": 150,
+              "signed_value": 2041939.59,
+              "pending": 38
+            },
+            "Nina Hart": {
+              "drafted": 190,
+              "signed": 171,
+              "signed_value": 2352379.02,
+              "pending": 34
+            },
+            "Owen Price": {
+              "drafted": 206,
+              "signed": 180,
+              "signed_value": 3001659.04,
+              "pending": 43
+            },
+            "Sam Carter": {
+              "drafted": 159,
+              "signed": 143,
+              "signed_value": 2187507.48,
+              "pending": 38
+            }
+          },
+          "list_rows": 14
+        },
+        {
+          "name": "2026, manager ?",
+          "report_year": 2026,
+          "manager": "?",
+          "type": "All",
+          "kpi": {
+            "drafted": 1,
+            "signed": 3,
+            "signed_value": 26371.99,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 22094.15
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 4277.84
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 1,
+              "signed": 2,
+              "signed_value": 4277.84
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Installation contract": {
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 22094.15
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 14,
+              "signed": 11,
+              "signed_value": 130593.16,
+              "pending": 3
+            },
+            "-": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 34689.3,
+              "pending": 1
+            },
+            "<to be assigned>": {
+              "drafted": 2,
+              "signed": 3,
+              "signed_value": 55716.36,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 3,
+              "signed_value": 26371.99,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 167,
+              "signed": 154,
+              "signed_value": 2171480.92,
+              "pending": 34
+            },
+            "Mia Lane": {
+              "drafted": 167,
+              "signed": 150,
+              "signed_value": 2041939.59,
+              "pending": 38
+            },
+            "Nina Hart": {
+              "drafted": 190,
+              "signed": 171,
+              "signed_value": 2352379.02,
+              "pending": 34
+            },
+            "Owen Price": {
+              "drafted": 206,
+              "signed": 180,
+              "signed_value": 3001659.04,
+              "pending": 43
+            },
+            "Sam Carter": {
+              "drafted": 159,
+              "signed": 143,
+              "signed_value": 2187507.48,
+              "pending": 38
+            }
+          },
+          "list_rows": 3
+        },
+        {
+          "name": "2026, type Annex*",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "Annex*",
+          "kpi": {
+            "drafted": 3,
+            "signed": 2,
+            "signed_value": 15345.38,
+            "pending": 1
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 6227.16
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 9118.22
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 56498.69
+            },
+            "<other>": {
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 135,
+              "signed": 117,
+              "signed_value": 861533.04
+            },
+            "Annex*": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 15345.38
+            },
+            "Consulting": {
+              "drafted": 4,
+              "signed": 3,
+              "signed_value": 66506.06
+            },
+            "Installation contract": {
+              "drafted": 363,
+              "signed": 347,
+              "signed_value": 9318634.3
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 54342.62
+            },
+            "Maintenance contract": {
+              "drafted": 173,
+              "signed": 159,
+              "signed_value": 984903.24
+            },
+            "Network audit": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 14734.0
+            },
+            "Service agreement": {
+              "drafted": 219,
+              "signed": 180,
+              "signed_value": 629839.53
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 1
+            },
+            "Mia Lane": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Nina Hart": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Owen Price": {
+              "drafted": 2,
+              "signed": 2,
+              "signed_value": 15345.38,
+              "pending": 0
+            },
+            "Sam Carter": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            }
+          },
+          "list_rows": 3
+        },
+        {
+          "name": "2026, type <other>",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "<other>",
+          "kpi": {
+            "drafted": 3,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 3
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 2,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 56498.69
+            },
+            "<other>": {
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 135,
+              "signed": 117,
+              "signed_value": 861533.04
+            },
+            "Annex*": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 15345.38
+            },
+            "Consulting": {
+              "drafted": 4,
+              "signed": 3,
+              "signed_value": 66506.06
+            },
+            "Installation contract": {
+              "drafted": 363,
+              "signed": 347,
+              "signed_value": 9318634.3
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 54342.62
+            },
+            "Maintenance contract": {
+              "drafted": 173,
+              "signed": 159,
+              "signed_value": 984903.24
+            },
+            "Network audit": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 14734.0
+            },
+            "Service agreement": {
+              "drafted": 219,
+              "signed": 180,
+              "signed_value": 629839.53
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 2,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 2
+            },
+            "Mia Lane": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 1
+            },
+            "Nina Hart": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Owen Price": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Sam Carter": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            }
+          },
+          "list_rows": 3
+        },
+        {
+          "name": "2026, type over 255 chars",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract",
+          "kpi": {
+            "drafted": 3,
+            "signed": 3,
+            "signed_value": 54342.62,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 28650.37
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 4775.8
+            },
+            {
+              "month": "2026-09",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 20916.45
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 56498.69
+            },
+            "<other>": {
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 135,
+              "signed": 117,
+              "signed_value": 861533.04
+            },
+            "Annex*": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 15345.38
+            },
+            "Consulting": {
+              "drafted": 4,
+              "signed": 3,
+              "signed_value": 66506.06
+            },
+            "Installation contract": {
+              "drafted": 363,
+              "signed": 347,
+              "signed_value": 9318634.3
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 54342.62
+            },
+            "Maintenance contract": {
+              "drafted": 173,
+              "signed": 159,
+              "signed_value": 984903.24
+            },
+            "Network audit": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 14734.0
+            },
+            "Service agreement": {
+              "drafted": 219,
+              "signed": 180,
+              "signed_value": 629839.53
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 20916.45,
+              "pending": 0
+            },
+            "Mia Lane": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Nina Hart": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 4775.8,
+              "pending": 0
+            },
+            "Owen Price": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 28650.37,
+              "pending": 0
+            },
+            "Sam Carter": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            }
+          },
+          "list_rows": 3
+        }
+      ]
+    },
+    "b": {
+      "contracts_rows": 1200,
+      "kpi": {
+        "drafted": 909,
+        "signed": 817,
+        "signed_value": 12002336.86,
+        "pending": 191,
+        "issues": 59
+      },
+      "monthly": [
+        {
+          "month": "2026-01",
+          "drafted": 94,
+          "signed": 87,
+          "signed_value": 1560548.43
+        },
+        {
+          "month": "2026-02",
+          "drafted": 85,
+          "signed": 68,
+          "signed_value": 813240.61
+        },
+        {
+          "month": "2026-03",
+          "drafted": 91,
+          "signed": 106,
+          "signed_value": 1494399.18
+        },
+        {
+          "month": "2026-04",
+          "drafted": 86,
+          "signed": 59,
+          "signed_value": 756169.11
+        },
+        {
+          "month": "2026-05",
+          "drafted": 88,
+          "signed": 78,
+          "signed_value": 1054129.13
+        },
+        {
+          "month": "2026-06",
+          "drafted": 103,
+          "signed": 89,
+          "signed_value": 1531305.7
+        },
+        {
+          "month": "2026-07",
+          "drafted": 102,
+          "signed": 89,
+          "signed_value": 1303262.36
+        },
+        {
+          "month": "2026-08",
+          "drafted": 79,
+          "signed": 84,
+          "signed_value": 1231733.73
+        },
+        {
+          "month": "2026-09",
+          "drafted": 87,
+          "signed": 84,
+          "signed_value": 1126276.36
+        },
+        {
+          "month": "2026-10",
+          "drafted": 94,
+          "signed": 73,
+          "signed_value": 1131272.25
+        },
+        {
+          "month": "2026-11",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-12",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        }
+      ],
+      "by_type": {
+        "(no type)": {
+          "drafted": 3,
+          "signed": 3,
+          "signed_value": 56498.69
+        },
+        "<other>": {
+          "drafted": 3,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        "Annex": {
+          "drafted": 135,
+          "signed": 117,
+          "signed_value": 861533.04
+        },
+        "Annex*": {
+          "drafted": 3,
+          "signed": 2,
+          "signed_value": 15345.38
+        },
+        "Consulting": {
+          "drafted": 4,
+          "signed": 3,
+          "signed_value": 66506.06
+        },
+        "Installation contract": {
+          "drafted": 363,
+          "signed": 347,
+          "signed_value": 9318634.3
+        },
+        "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+          "drafted": 3,
+          "signed": 3,
+          "signed_value": 54342.62
+        },
+        "Maintenance contract": {
+          "drafted": 173,
+          "signed": 159,
+          "signed_value": 984903.24
+        },
+        "Network audit": {
+          "drafted": 3,
+          "signed": 3,
+          "signed_value": 14734.0
+        },
+        "Service agreement": {
+          "drafted": 219,
+          "signed": 180,
+          "signed_value": 629839.53
+        }
+      },
+      "by_manager": {
+        "(no manager)": {
+          "drafted": 14,
+          "signed": 11,
+          "signed_value": 130593.16,
+          "pending": 3
+        },
+        "-": {
+          "drafted": 3,
+          "signed": 2,
+          "signed_value": 34689.3,
+          "pending": 1
+        },
+        "<to be assigned>": {
+          "drafted": 2,
+          "signed": 3,
+          "signed_value": 55716.36,
+          "pending": 0
+        },
+        "?": {
+          "drafted": 1,
+          "signed": 3,
+          "signed_value": 26371.99,
+          "pending": 0
+        },
+        "Leo Brooks": {
+          "drafted": 167,
+          "signed": 154,
+          "signed_value": 2171480.92,
+          "pending": 34
+        },
+        "Mia Lane": {
+          "drafted": 167,
+          "signed": 150,
+          "signed_value": 2041939.59,
+          "pending": 38
+        },
+        "Nina Hart": {
+          "drafted": 190,
+          "signed": 171,
+          "signed_value": 2352379.02,
+          "pending": 34
+        },
+        "Owen Price": {
+          "drafted": 206,
+          "signed": 180,
+          "signed_value": 3001659.04,
+          "pending": 43
+        },
+        "Sam Carter": {
+          "drafted": 159,
+          "signed": 143,
+          "signed_value": 2187507.48,
+          "pending": 38
+        }
+      },
+      "issues_by_problem": {
+        "Error value": 18,
+        "Unreadable date": 24,
+        "Unreadable number": 12,
+        "Missing drafted date": 5
+      },
+      "list_rows": 1008,
+      "exact_counts": {
+        "contract_type": {
+          "(no type)": 3,
+          "<other>": 3,
+          "Annex": 178,
+          "Annex*": 3,
+          "Consulting": 5,
+          "Installation contract": 480,
+          "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": 3,
+          "Maintenance contract": 228,
+          "Network audit": 3,
+          "Service agreement": 294
+        },
+        "manager": {
+          "(no manager)": 18,
+          "-": 3,
+          "<to be assigned>": 3,
+          "?": 3,
+          "Leo Brooks": 232,
+          "Mia Lane": 233,
+          "Nina Hart": 237,
+          "Owen Price": 253,
+          "Sam Carter": 218
+        },
+        "status": {
+          "Pending": 231,
+          "Signed": 969
+        },
+        "client": {
+          "Brightway Business Park": 13,
+          "Brightway Campus": 19,
+          "Brightway Hotels": 29,
+          "Brightway Housing": 22,
+          "Brightway Offices": 14,
+          "Brightway Properties": 13,
+          "Clearview Business Park": 21,
+          "Clearview Offices": 18,
+          "Clearview Residences": 18,
+          "Fairway Business Park": 21,
+          "Fairway Campus": 22,
+          "Fairway Properties": 19,
+          "Harborview Campus": 19,
+          "Harborview Properties": 27,
+          "Ironbridge Business Park": 15,
+          "Ironbridge Hotels": 26,
+          "Ironbridge Housing": 27,
+          "Ironbridge Properties": 21,
+          "Ironbridge Residences": 12,
+          "Lakeside Business Park": 28,
+          "Lakeside Campus": 24,
+          "Lakeside Hotels": 22,
+          "Lakeside Housing": 36,
+          "Lakeside Offices": 21,
+          "Lakeside Properties": 24,
+          "Lakeside Residences": 14,
+          "Northgate Business Park": 25,
+          "Northgate Hotels": 21,
+          "Oakridge Hotels": 20,
+          "Oakridge Housing": 17,
+          "Oakridge Offices": 22,
+          "Oakridge Residences": 22,
+          "Pinecrest Business Park": 16,
+          "Pinecrest Campus": 28,
+          "Pinecrest Hotels": 19,
+          "Pinecrest Housing": 15,
+          "Pinecrest Residences": 17,
+          "Redwood Business Park": 18,
+          "Redwood Housing": 18,
+          "Redwood Offices": 22,
+          "Redwood Properties": 20,
+          "Redwood Residences": 20,
+          "Riverside Campus": 24,
+          "Riverside Properties": 21,
+          "Riverside Residences": 22,
+          "Stonehill Business Park": 19,
+          "Stonehill Campus": 20,
+          "Stonehill Hotels": 20,
+          "Stonehill Housing": 22,
+          "Stonehill Residences": 21,
+          "Summit Business Park": 22,
+          "Summit Housing": 18,
+          "Westbrook Business Park": 17,
+          "Westbrook Campus": 27,
+          "Westbrook Hotels": 22,
+          "Westbrook Housing": 22,
+          "Westbrook Properties": 22,
+          "Westbrook Residences": 16
+        }
+      },
+      "contract_no_sha256": "d3a6bab689ba5c5a148b648b6511f05de84e7a8c63338a1daf85d5cb65be3a2b",
+      "scenarios": [
+        {
+          "name": "2025, all",
+          "report_year": 2025,
+          "manager": "All",
+          "type": "All",
+          "kpi": {
+            "drafted": 268,
+            "signed": 152,
+            "signed_value": 1983370.55,
+            "pending": 33
+          },
+          "monthly": [
+            {
+              "month": "2025-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-10",
+              "drafted": 92,
+              "signed": 19,
+              "signed_value": 256607.37
+            },
+            {
+              "month": "2025-11",
+              "drafted": 82,
+              "signed": 51,
+              "signed_value": 706253.65
+            },
+            {
+              "month": "2025-12",
+              "drafted": 94,
+              "signed": 82,
+              "signed_value": 1020509.53
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 38,
+              "signed": 24,
+              "signed_value": 226211.16
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 1810.67
+            },
+            "Installation contract": {
+              "drafted": 110,
+              "signed": 57,
+              "signed_value": 1467009.6
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 51,
+              "signed": 30,
+              "signed_value": 169944.82
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 68,
+              "signed": 40,
+              "signed_value": 118394.3
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 4,
+              "signed": 4,
+              "signed_value": 45805.1,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 59,
+              "signed": 38,
+              "signed_value": 544796.64,
+              "pending": 5
+            },
+            "Mia Lane": {
+              "drafted": 61,
+              "signed": 32,
+              "signed_value": 400253.0,
+              "pending": 10
+            },
+            "Nina Hart": {
+              "drafted": 43,
+              "signed": 24,
+              "signed_value": 288493.38,
+              "pending": 7
+            },
+            "Owen Price": {
+              "drafted": 44,
+              "signed": 25,
+              "signed_value": 342677.69,
+              "pending": 4
+            },
+            "Sam Carter": {
+              "drafted": 55,
+              "signed": 29,
+              "signed_value": 361344.74,
+              "pending": 7
+            }
+          },
+          "list_rows": 273
+        },
+        {
+          "name": "2025, Leo Brooks + Installation contract",
+          "report_year": 2025,
+          "manager": "Leo Brooks",
+          "type": "Installation contract",
+          "kpi": {
+            "drafted": 24,
+            "signed": 14,
+            "signed_value": 415006.92,
+            "pending": 3
+          },
+          "monthly": [
+            {
+              "month": "2025-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-10",
+              "drafted": 8,
+              "signed": 5,
+              "signed_value": 142367.36
+            },
+            {
+              "month": "2025-11",
+              "drafted": 6,
+              "signed": 4,
+              "signed_value": 96906.52
+            },
+            {
+              "month": "2025-12",
+              "drafted": 10,
+              "signed": 5,
+              "signed_value": 175733.04
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 12,
+              "signed": 8,
+              "signed_value": 75425.95
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Installation contract": {
+              "drafted": 24,
+              "signed": 14,
+              "signed_value": 415006.92
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 9,
+              "signed": 6,
+              "signed_value": 28582.66
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 14,
+              "signed": 10,
+              "signed_value": 25781.11
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 31306.15,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 24,
+              "signed": 14,
+              "signed_value": 415006.92,
+              "pending": 3
+            },
+            "Mia Lane": {
+              "drafted": 25,
+              "signed": 10,
+              "signed_value": 288498.77,
+              "pending": 3
+            },
+            "Nina Hart": {
+              "drafted": 17,
+              "signed": 11,
+              "signed_value": 226231.65,
+              "pending": 1
+            },
+            "Owen Price": {
+              "drafted": 22,
+              "signed": 11,
+              "signed_value": 254171.89,
+              "pending": 2
+            },
+            "Sam Carter": {
+              "drafted": 20,
+              "signed": 10,
+              "signed_value": 251794.22,
+              "pending": 2
+            }
+          },
+          "list_rows": 25
+        },
+        {
+          "name": "2026, Mia Lane + Service agreement",
+          "report_year": 2026,
+          "manager": "Mia Lane",
+          "type": "Service agreement",
+          "kpi": {
+            "drafted": 43,
+            "signed": 36,
+            "signed_value": 126573.68,
+            "pending": 10
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 2,
+              "signed": 4,
+              "signed_value": 12803.77
+            },
+            {
+              "month": "2026-02",
+              "drafted": 2,
+              "signed": 1,
+              "signed_value": 6394.27
+            },
+            {
+              "month": "2026-03",
+              "drafted": 8,
+              "signed": 2,
+              "signed_value": 7360.83
+            },
+            {
+              "month": "2026-04",
+              "drafted": 7,
+              "signed": 6,
+              "signed_value": 21722.06
+            },
+            {
+              "month": "2026-05",
+              "drafted": 2,
+              "signed": 8,
+              "signed_value": 28163.73
+            },
+            {
+              "month": "2026-06",
+              "drafted": 5,
+              "signed": 2,
+              "signed_value": 4333.18
+            },
+            {
+              "month": "2026-07",
+              "drafted": 5,
+              "signed": 3,
+              "signed_value": 10838.84
+            },
+            {
+              "month": "2026-08",
+              "drafted": 4,
+              "signed": 5,
+              "signed_value": 21622.64
+            },
+            {
+              "month": "2026-09",
+              "drafted": 1,
+              "signed": 4,
+              "signed_value": 9585.3
+            },
+            {
+              "month": "2026-10",
+              "drafted": 7,
+              "signed": 1,
+              "signed_value": 3749.06
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 27,
+              "signed": 27,
+              "signed_value": 187703.35
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 63525.82
+            },
+            "Installation contract": {
+              "drafted": 58,
+              "signed": 54,
+              "signed_value": 1468886.37
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 34,
+              "signed": 30,
+              "signed_value": 189415.87
+            },
+            "Network audit": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 5834.5
+            },
+            "Service agreement": {
+              "drafted": 43,
+              "signed": 36,
+              "signed_value": 126573.68
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 6,
+              "signed": 5,
+              "signed_value": 8431.4,
+              "pending": 1
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 43,
+              "signed": 35,
+              "signed_value": 107994.96,
+              "pending": 12
+            },
+            "Mia Lane": {
+              "drafted": 43,
+              "signed": 36,
+              "signed_value": 126573.68,
+              "pending": 10
+            },
+            "Nina Hart": {
+              "drafted": 46,
+              "signed": 41,
+              "signed_value": 164233.54,
+              "pending": 11
+            },
+            "Owen Price": {
+              "drafted": 37,
+              "signed": 30,
+              "signed_value": 107944.17,
+              "pending": 11
+            },
+            "Sam Carter": {
+              "drafted": 44,
+              "signed": 33,
+              "signed_value": 114661.78,
+              "pending": 13
+            }
+          },
+          "list_rows": 46
+        },
+        {
+          "name": "2026, (no manager)",
+          "report_year": 2026,
+          "manager": "(no manager)",
+          "type": "All",
+          "kpi": {
+            "drafted": 14,
+            "signed": 11,
+            "signed_value": 130593.16,
+            "pending": 3
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 3,
+              "signed_value": 68464.22
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 3233.35
+            },
+            {
+              "month": "2026-06",
+              "drafted": 2,
+              "signed": 1,
+              "signed_value": 43572.19
+            },
+            {
+              "month": "2026-07",
+              "drafted": 2,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 2,
+              "signed_value": 3909.45
+            },
+            {
+              "month": "2026-09",
+              "drafted": 4,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 1,
+              "signed": 4,
+              "signed_value": 11413.95
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 6215.9
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Installation contract": {
+              "drafted": 4,
+              "signed": 4,
+              "signed_value": 112036.41
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 3,
+              "signed": 1,
+              "signed_value": 3909.45
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 6,
+              "signed": 5,
+              "signed_value": 8431.4
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 14,
+              "signed": 11,
+              "signed_value": 130593.16,
+              "pending": 3
+            },
+            "-": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 34689.3,
+              "pending": 1
+            },
+            "<to be assigned>": {
+              "drafted": 2,
+              "signed": 3,
+              "signed_value": 55716.36,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 3,
+              "signed_value": 26371.99,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 167,
+              "signed": 154,
+              "signed_value": 2171480.92,
+              "pending": 34
+            },
+            "Mia Lane": {
+              "drafted": 167,
+              "signed": 150,
+              "signed_value": 2041939.59,
+              "pending": 38
+            },
+            "Nina Hart": {
+              "drafted": 190,
+              "signed": 171,
+              "signed_value": 2352379.02,
+              "pending": 34
+            },
+            "Owen Price": {
+              "drafted": 206,
+              "signed": 180,
+              "signed_value": 3001659.04,
+              "pending": 43
+            },
+            "Sam Carter": {
+              "drafted": 159,
+              "signed": 143,
+              "signed_value": 2187507.48,
+              "pending": 38
+            }
+          },
+          "list_rows": 14
+        },
+        {
+          "name": "2026, manager ?",
+          "report_year": 2026,
+          "manager": "?",
+          "type": "All",
+          "kpi": {
+            "drafted": 1,
+            "signed": 3,
+            "signed_value": 26371.99,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 22094.15
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 4277.84
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "<other>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 1,
+              "signed": 2,
+              "signed_value": 4277.84
+            },
+            "Annex*": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Consulting": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Installation contract": {
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 22094.15
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Maintenance contract": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Network audit": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Service agreement": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 14,
+              "signed": 11,
+              "signed_value": 130593.16,
+              "pending": 3
+            },
+            "-": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 34689.3,
+              "pending": 1
+            },
+            "<to be assigned>": {
+              "drafted": 2,
+              "signed": 3,
+              "signed_value": 55716.36,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 1,
+              "signed": 3,
+              "signed_value": 26371.99,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 167,
+              "signed": 154,
+              "signed_value": 2171480.92,
+              "pending": 34
+            },
+            "Mia Lane": {
+              "drafted": 167,
+              "signed": 150,
+              "signed_value": 2041939.59,
+              "pending": 38
+            },
+            "Nina Hart": {
+              "drafted": 190,
+              "signed": 171,
+              "signed_value": 2352379.02,
+              "pending": 34
+            },
+            "Owen Price": {
+              "drafted": 206,
+              "signed": 180,
+              "signed_value": 3001659.04,
+              "pending": 43
+            },
+            "Sam Carter": {
+              "drafted": 159,
+              "signed": 143,
+              "signed_value": 2187507.48,
+              "pending": 38
+            }
+          },
+          "list_rows": 3
+        },
+        {
+          "name": "2026, type Annex*",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "Annex*",
+          "kpi": {
+            "drafted": 3,
+            "signed": 2,
+            "signed_value": 15345.38,
+            "pending": 1
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 6227.16
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 9118.22
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 56498.69
+            },
+            "<other>": {
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 135,
+              "signed": 117,
+              "signed_value": 861533.04
+            },
+            "Annex*": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 15345.38
+            },
+            "Consulting": {
+              "drafted": 4,
+              "signed": 3,
+              "signed_value": 66506.06
+            },
+            "Installation contract": {
+              "drafted": 363,
+              "signed": 347,
+              "signed_value": 9318634.3
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 54342.62
+            },
+            "Maintenance contract": {
+              "drafted": 173,
+              "signed": 159,
+              "signed_value": 984903.24
+            },
+            "Network audit": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 14734.0
+            },
+            "Service agreement": {
+              "drafted": 219,
+              "signed": 180,
+              "signed_value": 629839.53
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 1
+            },
+            "Mia Lane": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Nina Hart": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Owen Price": {
+              "drafted": 2,
+              "signed": 2,
+              "signed_value": 15345.38,
+              "pending": 0
+            },
+            "Sam Carter": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            }
+          },
+          "list_rows": 3
+        },
+        {
+          "name": "2026, type <other>",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "<other>",
+          "kpi": {
+            "drafted": 3,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 3
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 2,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 56498.69
+            },
+            "<other>": {
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 135,
+              "signed": 117,
+              "signed_value": 861533.04
+            },
+            "Annex*": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 15345.38
+            },
+            "Consulting": {
+              "drafted": 4,
+              "signed": 3,
+              "signed_value": 66506.06
+            },
+            "Installation contract": {
+              "drafted": 363,
+              "signed": 347,
+              "signed_value": 9318634.3
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 54342.62
+            },
+            "Maintenance contract": {
+              "drafted": 173,
+              "signed": 159,
+              "signed_value": 984903.24
+            },
+            "Network audit": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 14734.0
+            },
+            "Service agreement": {
+              "drafted": 219,
+              "signed": 180,
+              "signed_value": 629839.53
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 2,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 2
+            },
+            "Mia Lane": {
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 1
+            },
+            "Nina Hart": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Owen Price": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Sam Carter": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            }
+          },
+          "list_rows": 3
+        },
+        {
+          "name": "2026, type over 255 chars",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract",
+          "kpi": {
+            "drafted": 3,
+            "signed": 3,
+            "signed_value": 54342.62,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 28650.37
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 4775.8
+            },
+            {
+              "month": "2026-09",
+              "drafted": 1,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 1,
+              "signed_value": 20916.45
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {
+            "(no type)": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 56498.69
+            },
+            "<other>": {
+              "drafted": 3,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            "Annex": {
+              "drafted": 135,
+              "signed": 117,
+              "signed_value": 861533.04
+            },
+            "Annex*": {
+              "drafted": 3,
+              "signed": 2,
+              "signed_value": 15345.38
+            },
+            "Consulting": {
+              "drafted": 4,
+              "signed": 3,
+              "signed_value": 66506.06
+            },
+            "Installation contract": {
+              "drafted": 363,
+              "signed": 347,
+              "signed_value": 9318634.3
+            },
+            "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 54342.62
+            },
+            "Maintenance contract": {
+              "drafted": 173,
+              "signed": 159,
+              "signed_value": 984903.24
+            },
+            "Network audit": {
+              "drafted": 3,
+              "signed": 3,
+              "signed_value": 14734.0
+            },
+            "Service agreement": {
+              "drafted": 219,
+              "signed": 180,
+              "signed_value": 629839.53
+            }
+          },
+          "by_manager": {
+            "(no manager)": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "-": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "<to be assigned>": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "?": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Leo Brooks": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 20916.45,
+              "pending": 0
+            },
+            "Mia Lane": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            },
+            "Nina Hart": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 4775.8,
+              "pending": 0
+            },
+            "Owen Price": {
+              "drafted": 1,
+              "signed": 1,
+              "signed_value": 28650.37,
+              "pending": 0
+            },
+            "Sam Carter": {
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0,
+              "pending": 0
+            }
+          },
+          "list_rows": 3
+        }
+      ]
+    },
+    "empty": {
+      "contracts_rows": 0,
+      "kpi": {
+        "drafted": 0,
+        "signed": 0,
+        "signed_value": 0.0,
+        "pending": 0,
+        "issues": 0
+      },
+      "monthly": [
+        {
+          "month": "2026-01",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-02",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-03",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-04",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-05",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-06",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-07",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-08",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-09",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-10",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-11",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        },
+        {
+          "month": "2026-12",
+          "drafted": 0,
+          "signed": 0,
+          "signed_value": 0.0
+        }
+      ],
+      "by_type": {},
+      "by_manager": {},
+      "issues_by_problem": {},
+      "list_rows": 0,
+      "exact_counts": {
+        "contract_type": {},
+        "manager": {},
+        "status": {},
+        "client": {}
+      },
+      "contract_no_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "scenarios": [
+        {
+          "name": "2025, all",
+          "report_year": 2025,
+          "manager": "All",
+          "type": "All",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2025-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2025, Leo Brooks + Installation contract",
+          "report_year": 2025,
+          "manager": "Leo Brooks",
+          "type": "Installation contract",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2025-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2025-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2026, Mia Lane + Service agreement",
+          "report_year": 2026,
+          "manager": "Mia Lane",
+          "type": "Service agreement",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2026, (no manager)",
+          "report_year": 2026,
+          "manager": "(no manager)",
+          "type": "All",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2026, manager ?",
+          "report_year": 2026,
+          "manager": "?",
+          "type": "All",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2026, type Annex*",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "Annex*",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2026, type <other>",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "<other>",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        },
+        {
+          "name": "2026, type over 255 chars",
+          "report_year": 2026,
+          "manager": "All",
+          "type": "Installation contract for the second building, see the e-mail from the property manager of 14 March: the framework price list applies, the start date is still to be agreed with the crews, and the client wants the Wi-Fi survey added later as an annex to this contract",
+          "kpi": {
+            "drafted": 0,
+            "signed": 0,
+            "signed_value": 0.0,
+            "pending": 0
+          },
+          "monthly": [
+            {
+              "month": "2026-01",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-02",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-03",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-04",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-05",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-06",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-07",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-08",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-09",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-10",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-11",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            },
+            {
+              "month": "2026-12",
+              "drafted": 0,
+              "signed": 0,
+              "signed_value": 0.0
+            }
+          ],
+          "by_type": {},
+          "by_manager": {},
+          "list_rows": 0
+        }
+      ]
+    }
+  },
+  "edge_cases": {
+    "a": {
+      "Drafted": {
+        "date": 952,
+        "datetime": 37,
+        "text dd.mm.yyyy": 59,
+        "text d.m.yyyy": 14,
+        "text yyyy-mm-dd": 39,
+        "text dd/mm/yyyy": 38,
+        "serial number": 38,
+        "blank": 5,
+        "#N/A": 6,
+        "unreadable text": 6,
+        "before 1900 (text or negative serial)": 6
+      },
+      "Signed": {
+        "date": 807,
+        "datetime": 25,
+        "text dd.mm.yyyy": 33,
+        "text d.m.yyyy": 13,
+        "text yyyy-mm-dd": 29,
+        "text dd/mm/yyyy": 28,
+        "serial number": 34,
+        "blank": 213,
+        "#N/A": 6,
+        "unreadable text": 6,
+        "before 1900 (text or negative serial)": 6
+      },
+      "Value (EUR)": {
+        "number": 1056,
+        "text 12 500,00": 39,
+        "text 12,500.00": 51,
+        "text 12 500,00 EUR (nbsp)": 28,
+        "blank": 8,
+        "#N/A": 6,
+        "unreadable text": 6,
+        "separator with a digit missing": 6
+      },
+      "Contract Type": {
+        "canonical": 1127,
+        "other case or extra spaces": 53,
+        "outside the list": 17,
+        "blank": 3,
+        "outside the list, with * ? < >": 6,
+        "outside the list, over 255 characters": 3
+      },
+      "Manager": {
+        "clean": 1103,
+        "leading/trailing spaces": 49,
+        "non-breaking space": 21,
+        "blank": 18,
+        "placeholder with ? - < >": 9
+      },
+      "Blank rows": {
+        "fully blank rows": 8
+      }
+    },
+    "b": {
+      "Drafted": {
+        "date": 532,
+        "datetime": 89,
+        "text dd.mm.yyyy": 243,
+        "text d.m.yyyy": 62,
+        "text yyyy-mm-dd": 93,
+        "text dd/mm/yyyy": 70,
+        "serial number": 88,
+        "blank": 5,
+        "#N/A": 6,
+        "unreadable text": 6,
+        "before 1900 (text or negative serial)": 6
+      },
+      "Signed": {
+        "date": 431,
+        "datetime": 78,
+        "text dd.mm.yyyy": 210,
+        "text d.m.yyyy": 43,
+        "text yyyy-mm-dd": 67,
+        "text dd/mm/yyyy": 62,
+        "serial number": 78,
+        "blank": 213,
+        "#N/A": 6,
+        "unreadable text": 6,
+        "before 1900 (text or negative serial)": 6
+      },
+      "Value (EUR)": {
+        "number": 727,
+        "text 12 500,00": 229,
+        "text 12,500.00": 126,
+        "text 12 500,00 EUR (nbsp)": 92,
+        "blank": 8,
+        "#N/A": 6,
+        "unreadable text": 6,
+        "separator with a digit missing": 6
+      },
+      "Contract Type": {
+        "canonical": 948,
+        "other case or extra spaces": 232,
+        "outside the list": 17,
+        "blank": 3,
+        "outside the list, with * ? < >": 6,
+        "outside the list, over 255 characters": 3
+      },
+      "Manager": {
+        "clean": 970,
+        "leading/trailing spaces": 137,
+        "non-breaking space": 66,
+        "blank": 18,
+        "placeholder with ? - < >": 9
+      },
+      "Text": {
+        "Client with line break or double space": 42,
+        "Contract No with trailing space": 30
+      },
+      "Blank rows": {
+        "fully blank rows": 8
+      }
+    }
+  }
+}

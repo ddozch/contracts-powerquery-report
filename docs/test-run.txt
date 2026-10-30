@@ -1,0 +1,13 @@
+Recorded run of tools\test_report.ps1, 2026-11-10 13:44
+Command: powershell -ExecutionPolicy Bypass -File tools\test_report.ps1
+Excel 365 (Polish UI), Windows 10, PowerShell 5.1
+
+Variant a: data\variant_a\contracts_register.xlsx
+Variant a: 1178 checks passed, 0 failed
+Variant b: data\variant_b\contracts_register.xlsx
+Variant b: 1178 checks passed, 0 failed
+Variant empty: data\variant_empty\contracts_register.xlsx
+Variant empty: 501 checks passed, 0 failed
+Total: 2859 checks passed, 0 failed
+
+Exit code 0, 33 s
